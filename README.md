@@ -6,4 +6,5 @@
 - .
 
 Папки:
-- NER - обучение и файлы модели named entity recognition
+- NER - обучение и файлы модели named entity recognition,
+- rule-based - эксперименты с тональным словарем и rule-based методами
