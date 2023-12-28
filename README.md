@@ -6,4 +6,4 @@
 -
 
 Папки:
-- NER
+- NER - обучение и файлы модели named entity recognition
