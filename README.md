@@ -3,7 +3,7 @@
 [Отчёт](https://docs.google.com/document/d/1NQS-qNMn7qdM5nQ1FfKcYMxwEeH8q3iltbLyDa_a4tI/edit)
 
 Тетрадка с запуском на тесте:
-- .
+- project_FINAL_.ipynb
 
 Папки:
 - NER - обучение и файлы модели named entity recognition,
